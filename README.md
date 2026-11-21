@@ -1,3 +1,5 @@
+NB: A copy of the Bertrand dataset is availiable here as zip. it can be used to run the notebook
+
 # Collusion Detection: Current-Step Transfer Study
 
 This project implements and evaluates collusion monitors (classifiers) on multi-agent interactions across two distinct economic environments:
