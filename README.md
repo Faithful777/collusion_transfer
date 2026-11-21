@@ -1,6 +1,6 @@
-# Retrospective Collusion Detection: Current-Step Transfer Study
+# Collusion Detection: Current-Step Transfer Study
 
-This project implements and evaluates retrospection-based collusion monitors (classifiers) on multi-agent interactions across two distinct economic environments:
+This project implements and evaluates collusion monitors (classifiers) on multi-agent interactions across two distinct economic environments:
 1. **SALT-NLP Agent Collusion (AC):** A 2-player task setting with explicit behavioral labeling.
 2. **Bertrand AI (v2):** A 3-seller classic pricing game with economic-proxy labeling.
 
